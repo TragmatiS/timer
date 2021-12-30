@@ -1,0 +1,4 @@
+timer	KEYWORD1
+timer_ms	KEYWORD1
+timer_mcs	KEYWORD1
+
